@@ -1,0 +1,8 @@
+Running 10s test @ http://localhost:8000/sdr/5
+  10 threads and 10 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    52.62ms   13.11ms 106.45ms   82.44%
+    Req/Sec    18.95      5.12    30.00     72.70%
+  1895 requests in 10.01s, 580.46KB read
+Requests/sec:    189.23
+Transfer/sec:     57.96KB
