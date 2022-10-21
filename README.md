@@ -7,7 +7,7 @@ with different levels of working with `pydantic models`.
 
 ## Benchmark
 
-![bencmark](benchmark_results.png)
+![bencmark](results/benchmark_results.png)
 
 ### Annotation
 
